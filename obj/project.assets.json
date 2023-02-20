@@ -1549,11 +1549,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/praephat/Documents/TEST/ExtractReport/ExtractReport.csproj",
+      "projectUniqueName": "/Users/praephat/Documents/GitHub/Storm-automated_ExtractReport/ExtractReport.csproj",
       "projectName": "ExtractReport",
-      "projectPath": "/Users/praephat/Documents/TEST/ExtractReport/ExtractReport.csproj",
+      "projectPath": "/Users/praephat/Documents/GitHub/Storm-automated_ExtractReport/ExtractReport.csproj",
       "packagesPath": "/Users/praephat/.nuget/packages/",
-      "outputPath": "/Users/praephat/Documents/TEST/ExtractReport/obj/",
+      "outputPath": "/Users/praephat/Documents/GitHub/Storm-automated_ExtractReport/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/praephat/.nuget/NuGet/NuGet.Config"
@@ -1629,7 +1629,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.405/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.406/RuntimeIdentifierGraph.json"
       }
     }
   }
